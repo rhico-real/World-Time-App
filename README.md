@@ -1,4 +1,4 @@
-My first app created by Flutter!
+My first app created with Flutter!
 
 I used world time api to update the world time in real time.
 
